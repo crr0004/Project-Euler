@@ -3,7 +3,6 @@
 	<name>ProjectEuler</name>
 	<comment></comment>
 	<projects>
-		<project>gtest@gtest-1.7.0-bld</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
